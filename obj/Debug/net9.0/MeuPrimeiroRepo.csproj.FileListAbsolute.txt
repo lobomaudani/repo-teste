@@ -1,0 +1,15 @@
+C:\Users\Admin\MeuPrimeiroRepo\bin\Debug\net9.0\MeuPrimeiroRepo.exe
+C:\Users\Admin\MeuPrimeiroRepo\bin\Debug\net9.0\MeuPrimeiroRepo.deps.json
+C:\Users\Admin\MeuPrimeiroRepo\bin\Debug\net9.0\MeuPrimeiroRepo.runtimeconfig.json
+C:\Users\Admin\MeuPrimeiroRepo\bin\Debug\net9.0\MeuPrimeiroRepo.dll
+C:\Users\Admin\MeuPrimeiroRepo\bin\Debug\net9.0\MeuPrimeiroRepo.pdb
+C:\Users\Admin\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.AssemblyInfoInputs.cache
+C:\Users\Admin\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.AssemblyInfo.cs
+C:\Users\Admin\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.sourcelink.json
+C:\Users\Admin\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.dll
+C:\Users\Admin\MeuPrimeiroRepo\obj\Debug\net9.0\refint\MeuPrimeiroRepo.dll
+C:\Users\Admin\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.pdb
+C:\Users\Admin\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.genruntimeconfig.cache
+C:\Users\Admin\MeuPrimeiroRepo\obj\Debug\net9.0\ref\MeuPrimeiroRepo.dll
